@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.carousel-img {
+    background: url(images/cover/cover-1.png);
+    height: 100vh;
+    overflow: hidden;
+}
+
+.carousel-img-3 {
+    background-image: url(images/cover/cover-3.jpg);
+    height: 100vh;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.carousel-img-2 {
+    background-image: url(images/cover/cover-2.jpg);
+    height: 100vh;
+    overflow: hidden;
+}
+
+.bg-color {
+    height: 100%;
+    background-color: rgba(45, 52, 54, .5);
+}
+
+.carousel-text h1 {
+    font-size: 48px;
+    color: rgb(255, 255, 255);
+}
+
+.carousel-text p {
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+}
