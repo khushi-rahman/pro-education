@@ -5,6 +5,14 @@
     font-family: 'Poppins', sans-serif;
 }
 
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
 .carousel-img {
     background: url(images/cover/cover-1.png);
     height: 100vh;
