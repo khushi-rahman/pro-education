@@ -297,10 +297,119 @@ a {
 }
 
 .comma-section {
-    width: 100%;
-    background-color: aqua;
+    width: 95%;
+    margin-left: 14px;
+    margin-bottom: 150px;
 }
 
 .comma-section img {
     width: 8%;
+}
+
+.comma-section ul li {
+    font-size: 14px;
+    color: rgb(255, 216, 166);
+}
+
+.p-text {
+    font-size: 12px;
+    font-weight: 500;
+    color: rgb(51, 41, 41);
+    margin-bottom: 40px;
+}
+
+.studen-img {
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.arro-btn {
+    width: 100%;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    height: 100%;
+}
+
+.left-btn {
+    width: 70px;
+    height: 70px;
+    background-color: rgba(0, 0, 255, 0.274);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    color: aqua;
+    border-radius: 50%;
+    margin-left: -50px;
+}
+
+.right-btn {
+    width: 70px;
+    height: 70px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    color: rgba(0, 0, 255, 0.623);
+    border-radius: 50%;
+    margin-right: -50px;
+}
+
+.comma-sectios {
+    position: relative;
+}
+
+
+/* end comma section
+=========== =====================*/
+
+.querry h1 {
+    font-size: 41px;
+    font-weight: 600;
+    margin: 20px 30px;
+    color: rgb(48, 26, 26);
+}
+
+.querry p {
+    font-size: 14px;
+    font-weight: 500;
+    color: rgb(51, 41, 41);
+    margin-bottom: 40px;
+}
+
+.trusted-bg h1 {
+    font-size: 41px;
+    font-weight: 600;
+    margin: 20px 30px;
+    color: rgb(48, 26, 26);
+}
+
+
+/* end sectiom
+======================== */
+
+.footer-section {
+    width: 100%;
+    padding: 100px 30px;
+}
+
+.footer-section h1 {}
+
+font-size: 41px;
+font-weight: 600;
+margin: 20px 30px;
+color: rgb(248,
+237,
+237);
+
+}
+.footer-section h2 {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 20px 30px;
+    color: rgb(248, 237, 237);
 }
