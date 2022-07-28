@@ -38,3 +38,23 @@
     font-size: 14px;
     color: rgb(255, 255, 255);
 }
+
+.intro-img {
+    width: 100%;
+}
+
+.intro-img img {
+    width: 100%;
+}
+
+.intro-sectiion {
+    background-color: rgb(236, 248, 248);
+}
+
+.intro-text {
+    width: 100%;
+}
+
+.section-modal {
+    width: 100%;
+}
