@@ -25,20 +25,20 @@
     }
     
     .carousel-img {
-        background: url("../PRO-EDU WEBSITE/images/cover/cover-1.png");
+        background: url("../pro-education/images/cover/cover-1.png");
         height: 100vh;
         overflow: hidden;
     }
     
     .carousel-img-3 {
-        background-image: url("../PRO-EDU WEBSITE/images/cover/cover-1.png");
+        background-image: url("../pro-education/images/cover/cover-3.png");
         height: 100vh;
         background-size: cover;
         overflow: hidden;
     }
     
     .carousel-img-2 {
-        background-image: url("../PRO-EDU WEBSITE/images/cover/cover-3.png");
+        background-image: url("../pro-education/images/cover/cover-2.png");
         height: 100vh;
         overflow: hidden;
     }
